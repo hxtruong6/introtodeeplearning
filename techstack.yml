@@ -1,7 +1,8 @@
 repo_name: hxtruong6/introtodeeplearning
 report_id: 3797955bafb419104f6e28bc0a4da119
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-14T05:14:45+00:00'
+timestamp: '2024-01-05T08:45:15+00:00'
 requested_by: avaamini
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/hxtruong6/introtodeeplearning
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hxtruong6/introtodeeplearning
   detection_source: Repo Metadata
 - name: Jupyter
   description: Multi-language interactive computing environments.
@@ -35,6 +38,7 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/hxtruong6/introtodeeplearning
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -45,4 +49,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/hxtruong6/introtodeeplearning
   detection_source: Repo Metadata
